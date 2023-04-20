@@ -7,5 +7,3 @@ interface Platform {
 }
 const usePlatforms = () => ({ data: platforms });
 export default usePlatforms;
-
-({ data: platforms });
